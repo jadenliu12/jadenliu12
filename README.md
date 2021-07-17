@@ -15,6 +15,6 @@ I am a third year student in National Tsing Hua University majoring in Computer 
 - :cloud:: <a href="">![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)</a>
 
 ## Contact :e-mail:
-<a href="<https://www.linkedin.com/in/jaden-liu-245b421a5/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="<https://www.facebook.com/jaden.jaden.1401/>">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a> <a href="mailto:jaden.1012@yahoo.com">![jaden.1012@yahoo.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  
+<a href="<https://www.linkedin.com/in/jaden-liu-245b421a5/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="<https://www.facebook.com/jadenliu12/>">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a> <a href="mailto:jaden.1012@yahoo.com">![jaden.1012@yahoo.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=jadenliu12&theme=buefy&hide=stars,issues)
