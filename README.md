@@ -1,7 +1,7 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Jaden, I am currently interested in:  
 
-- :briefcase: Software engineer/Web Developer/Front-end Developer  
+- :briefcase: Software engineer/Web Developer/Front-end Developer/Back-end Developer
 - :books: Machine learning and AI  
 - :computer: TensorFlow   
 
