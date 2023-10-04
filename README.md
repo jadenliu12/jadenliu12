@@ -5,7 +5,7 @@ My name is Jaden, I am currently interested in:
 - :books: Deep Learning & AI  
 - :computer: Web 3.0 & Decentralized Applications   
 
-I am an master student from Monash University majoring in Artificial Intelligence. I am actively studying and trying to improve my knowledge in the world of computer science. Committed, persistence, passionate and hardworking is how I would desrcibe myself!
+I am a master student from Monash University majoring in Artificial Intelligence. I am actively studying and trying to improve my knowledge in the world of computer science. Committed, persistence, passionate and hardworking is how I would desrcibe myself!
 
 ## Languages and Tools :hammer_and_wrench:
 Frontend :
